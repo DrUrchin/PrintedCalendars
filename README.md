@@ -1,6 +1,6 @@
 The files will :
 - load pretty color palettes ("Load pretty color palettes.R")
-- make calendars that you can print out ("Create Calendars To print.R").
+- make calendars that you can print out ("Create Calendars ToPrint.R").
 
 It uses the package 'calendR' and a tool to use color palettes downloaded from https://www.shutterstock.com/blog/101-color-combinations-design-inspiration (last updated: 11 June 2020).
 
