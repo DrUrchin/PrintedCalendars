@@ -1,6 +1,5 @@
 # Tool to use color palettes downloaded from
 # https://www.shutterstock.com/blog/101-color-combinations-design-inspiration
-# Author : Narimane Dorey - narimane.dorey@gmail.com
 # Update: 11 June 2020
 
 # Load dummy data for plotting
@@ -15,7 +14,7 @@ if(length(new.packages)) install.packages(new.packages)
 lapply(list.of.packages, library, character.only=TRUE)
 
 # Check the files names
-Files=list.files("/Users/nd/Documents/R projects/R_palettes/101 Color Combinations Swatch Files",
+Files=list.files("~/101 Color Combinations Swatch Files",
                  full.names = T)
 
 # _________________________________________
